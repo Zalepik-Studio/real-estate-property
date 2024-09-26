@@ -1,0 +1,1 @@
+<a href="{{ url('update-password') }}">Update Password</a>
